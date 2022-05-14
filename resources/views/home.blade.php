@@ -10,7 +10,10 @@
 </head>
 <body>
 
-<livewire:counter/>
+
+{{--<livewire:counter/>--}}
+
+<livewire:post/>
 
 @livewireScripts
 </body>
