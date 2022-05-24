@@ -14,7 +14,9 @@
 
 {{--<livewire:counter/>--}}
 
-<livewire:post/>
+{{--<livewire:post/>--}}
+
+<livewire:comment/>
 @livewireScripts
 </body>
 </html>
